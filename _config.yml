@@ -1,2 +1,7 @@
 title: Trues Study Time
 description: Hush up HB
+:root {
+  --background-color: #000000; /* Change this to your preferred background color */
+  --text-color: white; /* Change this to your preferred text color */
+  --accent-color: #404040; /* Change this to your preferred accent color */
+}
